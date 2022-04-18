@@ -98,6 +98,5 @@ SAWSAirTemp1 = [Kcutadj;Scutadj];
 % Visualise compiled dataset
 figure('Name','Calibrated and compiled data');
 scatter(DateTime,SAWSAirTemp1,'.');
-% change existing .mfies to use this consolidated surface temp vector. 
-%                           ***DO THIS***
+
 
